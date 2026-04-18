@@ -1,0 +1,3 @@
+1874,pan,6.0,3
+874526,Detergente,45.67,6
+1928363,jugo del valle,34.56,2
