@@ -1,0 +1,10 @@
+ingeInfo,1234
+somoUnicos,2468
+Pauher,2908
+juan,123
+maria,1122
+lucia,1234
+liam,2345
+mat,789
+Mario,2001
+max,4567
