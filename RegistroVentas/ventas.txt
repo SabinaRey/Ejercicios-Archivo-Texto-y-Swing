@@ -1,0 +1,5 @@
+13 de Abril del 2026,Café,15,15.0
+13 de abril del 2026,mayonesa,4,4.0
+14 de Abril del 2026,Aceite,5,5.0
+14 de Abril del 2026,Arroz,2,2.0
+14 de mayo del 2026,pastas,4,4.0
