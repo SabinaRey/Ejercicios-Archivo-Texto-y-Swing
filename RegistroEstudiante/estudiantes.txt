@@ -1,0 +1,10 @@
+10293876,Alexsander,Ingenieria Civil,94.5
+10293876,Alexsander,Ingenieria Civil,94.5
+10293876,Alexsander,Ingenieria Civil,94.5
+10293876,Alexsander,Ingenieria Civil,94.5
+12345678,Alexsander,Ingenieria Civil,90.5
+10293847,Marisela,Licenciatura en Nutrición,100.0
+1092376482,Nicolas,Licenciado en biologiia,100.0
+12345,marisol,ingenieria forestal,78.0
+129873645,Andres,Licenciatura en sistemas informaticos,100.0
+22051986,Mercedes,Licenciatura en Biología,100.0
