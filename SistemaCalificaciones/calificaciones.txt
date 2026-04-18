@@ -1,0 +1,6 @@
+andres,fisica,98.5
+sebastian,quimica,55.8
+Andrea,Matemáticas,100.0
+Mateo,literatura,100.0
+manuel,fisica,56.7
+Marcelino,Español,78.9
